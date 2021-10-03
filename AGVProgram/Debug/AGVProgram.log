@@ -1,0 +1,5 @@
+﻿  AGV.cpp
+  main.cpp
+  Generating Code...
+E:\Learning HUST\2. Năm III\5. Kỹ thuật lập trình\3. MIDTERM Project\Components\AGVProgram\AGV.cpp(130): warning C4715:  'CheckID': not all control paths return a value
+  AGVProgram.vcxproj -> E:\Learning HUST\2. Năm III\5. Kỹ thuật lập trình\3. MIDTERM Project\Components\AGVProgram\Debug\AGVProgram.exe
